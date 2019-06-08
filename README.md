@@ -6,3 +6,4 @@
 * Bustle: https://thenewstack.io/bustle-migrated-100-million-events-per-day-product-serverless/
 * Serveless Analytics Proxy Service to Google Analytics, Mixpanel, whatever you want service: https://hackernoon.com/analytics-services-part-3-e3981e694f99
 * HTTP Analytics for 6M requests per second using ClickHouse @ CloudFlare: https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/
+* Architecture of Giants: Data Stacks at Facebook, Netflix, Airbnb, and Pinterest https://blog.keen.io/architecture-of-giants-data-stacks-at-facebook-netflix-airbnb-and-pinterest/
