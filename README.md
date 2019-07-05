@@ -12,3 +12,5 @@
 * Scaling Like a Boss with Presto https://engineering.grab.com/scaling-like-a-boss-with-presto
 * The data infrastructure meta-analysis: How top engineering organizations built their big data stacks https://www.stitchdata.com/blog/the-data-infrastructure-meta-analysis-how-top-engineering-organizations-built-their-big-data-stacks/
 * Architecture of Giants: Data Stacks at Facebook, Netflix, Airbnb, and Pinterest https://keen.io/blog/architecture-of-giants-data-stacks-at-facebook-netflix-airbnb-and-pinterest/
+* Scaling Apache Spark Usage at lyft: https://www.youtube.com/watch?v=TRrGtL0eE2s
+* 
